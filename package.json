@@ -1,0 +1,15 @@
+{
+    "name": "pythonmlpack",
+    "displayName": "PythonMLPack",
+    "description": "\"Extensions for Python data science and machine learning\"",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.66.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "publisher.extensionName"
+    ]
+}
